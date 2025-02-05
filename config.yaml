@@ -1,0 +1,9 @@
+
+path: C:\\Users\\user\\Anaconda\\CV pet project\\data
+train: images\\train
+val: images\\val
+
+names:
+    0: cat
+    1: dog
+
