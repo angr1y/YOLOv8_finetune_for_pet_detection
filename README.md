@@ -6,6 +6,8 @@ The purpose of this project was to finetune YOLOv8 and become familiar with this
 
 At this notebook you can see the result, which could be much better, using more epochs while training, but even though there was only 20 epochs the result is already fine.
 
+Targer:
 ![alt text](val_batch0_labels.jpg "Target")
 
+Prediction:
 ![alt text](val_batch0_pred.jpg "Prediction")
